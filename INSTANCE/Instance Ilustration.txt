@@ -22,3 +22,7 @@ Index,Origin,Destination,Demand/Size,Earliest available time,Latest delivery tim
 1,3,0,0.25,20,150
 2,1,2,0.25,0,180
 horizon=180
+Commdotiy, Unit holding cost at terminal 1 (already multiply demand),....
+0,0.900,0.809,0.834,0.834,0.743,0.826,0.966,0.752,0.818,0.909,
+1,0.720,0.807,0.552,0.774,0.713,0.639,0.646,0.713,0.747,0.700,
+2,1.763,1.487,2.075,1.854,2.020,1.506,1.652,2.166,1.891,1.854,
