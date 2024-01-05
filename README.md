@@ -1,4 +1,4 @@
-#Instance for Continous-Time Service Network Design with Holding Costs
+#Instances for Continous-Time Service Network Design with Holding Costs
 
 The files shared repository provide the instances and corresponding results used in the following paper
 
