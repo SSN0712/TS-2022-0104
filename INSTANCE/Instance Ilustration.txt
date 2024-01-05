@@ -1,0 +1,24 @@
+NODES,4
+INDEX,Name,X-coordinate,Y-coordinate
+0,0,-,-
+1,1,-,-
+2,2,-,-
+3,3,-,-
+ARCS,10
+Index,Origin,Destination,Variable Cost,Fixed Cost,Capacity,Travel time
+0,0,1,0,60,1,60
+1,0,2,0,40,1,40
+2,1,0,0,60,1,60
+3,1,2,0,70,1,70
+4,1,3,0,50,1,50
+5,2,0,0,40,1,40
+6,2,1,0,70,1,70
+7,2,3,0,30,1,30
+8,3,1,0,50,1,50
+9,3,2,0,30,1,30
+COMMODITIES,3
+Index,Origin,Destination,Demand/Size,Earliest available time,Latest delivery time
+0,2,1,0.25,30,160
+1,3,0,0.25,20,150
+2,1,2,0.25,0,180
+horizon=180
